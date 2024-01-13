@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://i.ibb.co/gtj3QH7/16338087-rm301-beer-01.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#headerSection>h1{ 
+text-shadow: 3px 3px rgba(238, 205, 133, 0.5);
+}
+
+/* header ends  */
+
+
+
+.dayDiv{
+    background-color:  #ff66a36e;
+    color: #4d001f;
+    text-align: center;
+     height:10%;
+     width: 130%;
+border-radius: 30px;
+font-weight: 900;
+font-size: 6vh;
+border: none;  
+}
+
